@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/microbadger/image-size/RaheesAhmed/RaheesAhmed/website?color=blue&label=RaheesAhmed&logo=website&style=flat-square"></a>
-<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/static/v1?logo=google-chrome&label=Website&message=Visit%20Now&color=blue"></a>
+<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=Website&message=Visit%20Now&color=blue"></a>
+<a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Website&message=Visit%20Now&color=red"></a>
 <a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
