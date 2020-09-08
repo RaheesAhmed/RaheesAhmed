@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://e7.pngegg.com/pngimages/87/656/png-clipart-web-development-computer-icons-website-world-wide-web-web-design-global-globe-network-planet-web-world-icon-round-white-and-blue-globe-logo-miscellaneous-search-engine-optimization.png" style="width:width:3rem"></a>
 <a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
