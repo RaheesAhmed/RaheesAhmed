@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="http://rahees-ahmed.netlify.app/"></a>
-<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"></a>
-<a href="https://www.instagram.com/rahees_writes/"></a>
-<a href="mailto:raheesahmed256@gmail.com"></a>
+<a href="http://rahees-ahmed.netlify.app/">Website</a>
+<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/">Linkedin</a>
+<a href="https://www.instagram.com/rahees_writes/">Instagram</a>
+<a href="mailto:raheesahmed256@gmail.com">Email</a>
 </p>
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
