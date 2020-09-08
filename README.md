@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/static/v1?logo=google-chrome&label=Website&message=Visit%20Now&color=blue"></a>
 <a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=Connect%20Now&color=blue"></a>
-<a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=Visit%20Now&color=red"></a>
+<a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/static/v1?logo=instagram&label=Instagram&message=Follow%20Now&color=red"></a>
 <a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?logo=envlope&label=Mail&message=Contact%20Now&color=green"></a>
 </p>
 
