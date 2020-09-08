@@ -34,15 +34,16 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![RaheesAhmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaheesAhmedshow_icons=true)](https://github.com/RaheesAhmed)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="http://rahees-ahmed.netlify.app/">Website</a>
-<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/">Linkedin</a>
-<a href="https://www.instagram.com/rahees_writes/">Instagram</a>
-<a href="mailto:raheesahmed256@gmail.com">Email</a>
+<a href="http://rahees-ahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rahees_writes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
