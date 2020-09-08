@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **RaheesAhmed/RaheesAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaheesAhmedshow_icons=true)](https://github.com/RaheesAhmed)
+[![RaheesAhmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaheesAhmedshow_icons=true)](https://github.com/RaheesAhmed)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
