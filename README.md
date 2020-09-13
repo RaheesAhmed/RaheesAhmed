@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=RaheesAhmed&color=green)
+
 [![Rahees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaheesAhmed&show_icons=true)](https://github.com/RaheesAhmed)
 
 
