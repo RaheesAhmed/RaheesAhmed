@@ -48,4 +48,9 @@ Here are some ideas to get you started:
 <a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?logo=envlope&label=Mail&message=Contact%20Now&color=green"></a>
 </p>
 
+
+❤️ <4>Support my open source projects<h4>
+
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/raheesahmed)
+
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
