@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 
-❤️ <h4>Support my open source projects</h4> : [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/raheesahmed)
+❤️ <h4>Support my open source projects</h4>  [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/raheesahmed)
 
 
 
