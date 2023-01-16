@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 💼 &nbsp; Working as a Web Developer / UI Designer at Land2com.
+- 💼 &nbsp; Working as a Web Developer / UI Designer at <a href="https://www.upwork.com/freelancers/~01dfa3639b7e79ccb9?s=1044578476142100545">Upwork</a>.
 - 🌱 &nbsp; Learning more about React Native, Ionic and Nodejs.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
