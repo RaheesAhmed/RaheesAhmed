@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at AUST.
+
 - 💼 &nbsp; Working as a Web Developer / UI Designer at Land2com.
 - 🌱 &nbsp; Learning more about React Native, Ionic and Nodejs.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
