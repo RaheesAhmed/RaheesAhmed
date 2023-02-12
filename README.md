@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material UI | Semantic UI | WordPress | PHP | Jquery 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material UI | Semantic UI | WordPress | PHP | Jquery | Bubble io | WordPress
 - 🛢 &nbsp; MySQL | SQL
 - 🔧 &nbsp; Git | Github
 - 🖥 &nbsp; Illustrator| Photoshop | XD 
