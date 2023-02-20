@@ -4,7 +4,7 @@
 
 ## About Me
 
-My name is [Your Name], and I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js, and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
+My name is [Rahees Ahmed], and I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js, and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
 
 ## Skills and Expertise
 
@@ -22,23 +22,14 @@ Here are some of the skills and expertise that I bring to the table:
 
 - **PHP:** I have a solid foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration.
 
-## Portfolio
-
-Here are some of the web applications and projects that I've worked on:
-
-- **Project Name:** A brief description of the project, its features, and the technologies used.
-
-- **Project Name:** A brief description of the project, its features, and the technologies used.
-
-- **Project Name:** A brief description of the project, its features, and the technologies used.
 
 ## Contact
 
 If you'd like to get in touch, you can reach me through the following channels:
 
-- Email: [Your Email Address](mailto:raheesahmed37@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahees-ahmed/)
-- Portfolio: [Your Portfolio Website](https://www.rahees-ahmed.netlify.app)
+- Email: [Send Email](mailto:raheesahmed37@gmail.com)
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/rahees-ahmed/)
+- Portfolio: [Visit Portfolio ](https://www.rahees-ahmed.netlify.app)
 
 
 
