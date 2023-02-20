@@ -41,13 +41,14 @@ PHP: I have a solid foundation in PHP programming, including object-oriented pro
 <a href="https://www.linkedin.com/in/rahees-ahmed-261a23122/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=Connect%20Now&color=blue"></a>
 <a href="mailto:raheesahmed256@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?logo=envlope&label=Mail&message=Contact%20Now&color=green"></a>
 </p>
+-->
 
 
 ❤️ <h4>Support my open source projects</h4>  [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/raheesahmed)
 
-
+Thank you for your time, and I look forward to hearing from you!
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
 
-Thank you for your time, and I look forward to hearing from you!
+
 
