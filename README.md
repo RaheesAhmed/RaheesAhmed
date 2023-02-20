@@ -3,34 +3,29 @@
 <!--
 **RaheesAhmed/RaheesAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm [Your Name]
+I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js, and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skills and Expertise
+Bubble.io: I have extensive experience in developing web applications using Bubble.io, a no-code platform that enables rapid prototyping and deployment of web applications. I'm proficient in using Bubble's visual editor, database management, API integrations, and user authentication.
 
-<h2> Hey there! I'm Rahees Ahmed.</h2>
+WordPress: I have strong skills in WordPress development, including custom theme and plugin development, WooCommerce integration, and site optimization. I'm familiar with the WordPress core functions, template hierarchy, and plugin architecture.
 
-<h3> 👨🏻‍💻 About Me </h3>
+HTML/CSS: I have a deep understanding of HTML and CSS and can create responsive and accessible web pages that adhere to web standards and best practices. I'm proficient in using CSS frameworks such as Bootstrap and Tailwind CSS.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+JavaScript: I'm skilled in using JavaScript to create interactive and dynamic user interfaces, including the use of libraries and frameworks such as jQuery, React, and Vue.js. I'm familiar with modern JavaScript features and tools such as ES6, Webpack, and Babel.
 
-- 💼 &nbsp; Working as a Web Developer / UI Designer at <a href="https://www.upwork.com/freelancers/~01dfa3639b7e79ccb9?s=1044578476142100545">Upwork</a>.
-- 🌱 &nbsp; Learning more about React Native, Ionic and Nodejs.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Node.js: I have experience in using Node.js to build scalable and high-performance web applications, including the use of Express, MongoDB, and Socket.io. I'm proficient in using npm packages and building RESTful APIs.
 
-<h3>🛠 Tech Stack</h3>
+PHP: I have a solid foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration. I'm familiar with popular PHP frameworks such as Laravel and Symfony.
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Material UI | Semantic UI | WordPress | PHP | Jquery | Bubble io | WordPress
-- 🛢 &nbsp; MySQL | SQL
-- 🔧 &nbsp; Git | Github
-- 🖥 &nbsp; Illustrator| Photoshop | XD 
+
+
+
+
+
+
+
 
 <br/>
 
@@ -53,3 +48,6 @@ Here are some ideas to get you started:
 
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
+
+Thank you for your time, and I look forward to hearing from you!
+
