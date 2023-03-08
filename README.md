@@ -27,9 +27,9 @@ Here are some of the skills and expertise that I bring to the table:
 
 If you'd like to get in touch, you can reach me through the following channels:
 
-- ✉️ Email: [Your Email Address](mailto:raheesahmed37@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahees-ahmed)
-- 🌐 Portfolio: [Your Portfolio Website](https://www.rahees-ahmed.netlify.app)
+- ✉️ Email: [Email ](mailto:raheesahmed37@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rahees-ahmed)
+- 🌐 Portfolio: [Portfolio Website](https://www.rahees-ahmed.netlify.app)
 
 
 
