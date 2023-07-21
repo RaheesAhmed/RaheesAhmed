@@ -4,7 +4,7 @@
 
 ## About Me 🙋‍♀️
 
-My name is Rahees Ahmed, and I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js, and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
+My name is Rahees Ahmed, and I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js,Python , and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
 
 ## Skills and Expertise 🚀
 
@@ -22,6 +22,7 @@ Here are some of the skills and expertise that I bring to the table:
 
 - 🐘 **PHP:** I have a solid foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration.
 
+-  **Python:**I can automate your tasks with Python.
 
 ## Contact 📬
 
