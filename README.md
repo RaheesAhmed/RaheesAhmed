@@ -22,7 +22,7 @@ Here are some of the skills and expertise that I bring to the table:
 
 - 🐘 **PHP:** I have a solid foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration.
 
--  **Python:**I can automate your tasks with Python.
+- 🌐 **Python:** I can automate your tasks with Python.
 
 ## Contact 📬
 
