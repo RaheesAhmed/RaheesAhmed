@@ -1,44 +1,52 @@
 
 
-# Welcome to my GitHub profile! 👋
+## RAHEES AHMED  - Web Developer
+Chatbots | ChatGPT | API Integration | AI Website | AI Automation
 
-## About Me 🙋‍♀️
-
-My name is Rahees Ahmed, and I'm a web developer with experience in Bubble.io, WordPress, HTML, CSS, JavaScript, Node.js,Python , and PHP. I enjoy building scalable and user-friendly web applications that help businesses and individuals achieve their goals.
+I'm Rahees Ahmed, a skilled web developer with a passion for building impactful web applications and solutions. I specialize in a range of technologies and development areas to help businesses and individuals achieve their goals.
 
 ## Skills and Expertise 🚀
 
-Here are some of the skills and expertise that I bring to the table:
+### Bubble.io Development
 
-- 🌐 **Bubble.io:** I have extensive experience in developing web applications using Bubble.io, a no-code platform that enables rapid prototyping and deployment of web applications.
+- Extensive experience in creating web applications using Bubble.io, a no-code platform for rapid prototyping and deployment.
 
-- 📝 **WordPress:** I have strong skills in WordPress development, including custom theme and plugin development, WooCommerce integration, and site optimization.
+### WordPress Development
 
-- 🎨 **HTML/CSS:** I have a deep understanding of HTML and CSS and can create responsive and accessible web pages that adhere to web standards and best practices.
+- Proficient in WordPress development, including custom theme and plugin development, WooCommerce integration, and site optimization.
 
-- 💻 **JavaScript:** I'm skilled in using JavaScript to create interactive and dynamic user interfaces, including the use of libraries and frameworks such as jQuery, React, and Vue.js.
+### Front-End Development
 
-- 🚀 **Node.js:** I have experience in using Node.js to build scalable and high-performance web applications, including the use of Express, MongoDB, and Socket.io.
+- Deep understanding of HTML and CSS to create responsive and accessible web pages adhering to web standards and best practices.
+- Skilled in using JavaScript to build interactive and dynamic user interfaces, including jQuery, React, and Vue.js.
 
-- 🐘 **PHP:** I have a solid foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration.
+### Back-End Development
 
-- 🌐 **Python:** I can automate your tasks with Python.
+- Experienced in Node.js for building scalable and high-performance web applications using Express, MongoDB, and Socket.io.
+- Strong foundation in PHP programming, including object-oriented programming, MVC frameworks, and database integration.
 
-## Contact 📬
+### Python Expertise
 
-If you'd like to get in touch, you can reach me through the following channels:
+- Proficient in Python for various tasks, including automation and chatbot development.
+- Skilled in API integration and development, enhancing functionality and connectivity.
 
-- ✉️ Email: [Email ](mailto:raheesahmed37@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rahees-ahmed)
-- 🌐 Portfolio: [Portfolio Website](https://www.rahees-ahmed.netlify.app)
+## Chatbot Development with Langchain ChatGPT
 
+I specialize in developing modern chatbots using Langchain ChatGPT, trained on custom data to provide personalized and context-aware interactions. Whether it's for customer support, information retrieval, or engaging conversations, I can create chatbots that add value to your applications.
 
+## API Integration and Development
 
+- Skilled in integrating third-party APIs to enhance application functionality and user experience.
+- Proficient in API development to create robust and scalable interfaces for data exchange.
 
+## Python Automation
 
-❤️ <h4>Support my open source projects</h4>  [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/raheesahmed)
+- Experienced in automating tasks using Python, improving efficiency, and reducing manual efforts.
 
-Thank you for your time, and I look forward to hearing from you!
+Feel free to explore my repositories to see examples of my work. If you're interested in collaborating or discussing a project, feel free to reach out!
+
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rahees-ahmed/)
+
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
 
