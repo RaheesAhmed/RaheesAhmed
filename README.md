@@ -1,4 +1,4 @@
-# Rahees Ahmed - Full-Stack Web Developer & Automation Expert
+## Backend developer Nodejs express | AI Automation | API Integration | REST API Development | ChatGPT Integration | Custom Trained Chatbots | Web Scraping | Zapier Automation
 
 <div align="center">
     <img src="https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg" alt="Rahees Ahmed Banner">
