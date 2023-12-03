@@ -1,40 +1,52 @@
-# Rahees Ahmed - Web Developer & Automation Expert
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rahees-ahmed/)
+# Rahees Ahmed - Full-Stack Web Developer & Automation Expert
 
-Welcome to my GitHub profile! I'm Rahees Ahmed, a dedicated web developer with a passion for crafting cutting-edge web solutions. My expertise spans a wide range of technologies, and I'm committed to helping businesses and individuals achieve their digital goals.
+<div align="center">
+    <img src="https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg" alt="Rahees Ahmed Banner">
+</div>
 
-## Skills and Expertise
-Here's a glimpse of my skills and areas of expertise, all adorned with badges:
+<div align="center">
+    <a href="https://www.linkedin.com/in/rahees-ahmed/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="#github-link">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    </a>
+    <a href="#twitter-link">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+    </a>
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![WordPress](https://img.shields.io/badge/WordPress-Proficient-blue)
-![WordPress Plugin Development](https://img.shields.io/badge/WordPress%20Plugin%20Development-Proficient-blue)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-Expert-green)
-![Bubble.io Plugin Development](https://img.shields.io/badge/Bubble.io%20Plugin%20Development-Expert-green)
-![Python Automation](https://img.shields.io/badge/Python%20Automation-Proficient-blue)
-![Chatbots](https://img.shields.io/badge/Chatbots-Expert-green)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Expert-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-Expert-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)
-![Custom Model Training](https://img.shields.io/badge/Custom%20Model%20Training-Expert-green)
-![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning-Expert-green)
-![React.js](https://img.shields.io/badge/React.js-Proficient-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Experienced-brightgreen)
+<br>
 
-### Chatbot Development with Langchain ChatGPT
-I specialize in crafting modern chatbots using Langchain ChatGPT, customized to provide personalized and context-aware interactions. Whether it's for customer support, information retrieval, or engaging conversations, I can create chatbots that add immense value to your applications.
+Welcome to my digital realm! I am Rahees Ahmed, a passionate technologist specialized in full-stack web development and automation solutions. My craft revolves around designing and implementing bespoke web applications and systems that streamline business processes and enhance user experiences.
 
-### API Integration and Development
-![API Integration](https://img.shields.io/badge/API%20Integration-Skilled-yellow)
-![API Development](https://img.shields.io/badge/API%20Development-Skilled-yellow)
+---
 
-### Python Automation
-![Python Automation](https://img.shields.io/badge/Python%20Automation-Proficient-blue)
+## Core Competencies
 
-Feel free to explore my repositories to witness firsthand examples of my work. If you're interested in collaborating or discussing a project, don't hesitate to reach out. Let's turn your digital vision into reality!
+### Full-Stack Web Development
+- **Front-End**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Back-End**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frameworks**: ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rahees-ahmed/)
+### Automation & AI Integration
+- **Python Automation**: ![Python Automation](https://img.shields.io/badge/Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Chatbot Development**: Leveraging OpenAI's GPT for innovative chatbot solutions.
+
+### No-Code Development
+- **Bubble.io & WordPress**: Expertise in no-code platform development and custom plugin creation.
+
+### API Mastery
+- Proficient in API integration and custom API development, enhancing functionality and connectivity of applications.
+
+---
+
+Your vision, our digital journey! I'm keen on collaborating on exciting projects and turning innovative ideas into reality. Reach out to discuss how we can elevate your digital presence.
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/rahees-ahmed/">
+        <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
+    </a>
+</div>
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
