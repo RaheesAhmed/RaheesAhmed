@@ -1,5 +1,6 @@
 ### Backend developer Nodejs express - AI Automation - API Integration - REST API Development - ChatGPT Integration - Custom Trained Chatbots - Web Scraping - Zapier Automation
 
+Welcome to my digital realm! I am Rahees Ahmed, a passionate technologist specialized in full-stack web development and automation solutions. My craft revolves around designing and implementing bespoke web applications and systems that streamline business processes and enhance user experiences.
 <div align="center">
     <img src="https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg" alt="Rahees Ahmed Banner">
 </div>
@@ -18,7 +19,7 @@
 
 <br>
 
-Welcome to my digital realm! I am Rahees Ahmed, a passionate technologist specialized in full-stack web development and automation solutions. My craft revolves around designing and implementing bespoke web applications and systems that streamline business processes and enhance user experiences.
+
 
 ---
 
