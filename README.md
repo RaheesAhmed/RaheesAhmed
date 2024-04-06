@@ -19,8 +19,6 @@ Welcome to my digital realm! I am Rahees Ahmed, a passionate technologist specia
 
 <br>
 
-
-
 ---
 
 ## Core Competencies
@@ -49,5 +47,9 @@ Your vision, our digital journey! I'm keen on collaborating on exciting projects
         <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
     </a>
 </div>
+
+![Rahees's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaheesAhmed&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaheesAhmed&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaheesAhmed&theme=onedark)
 
 ⭐️ From [RaheesAhmed](https://github.com/RaheesAhmed)
