@@ -2,7 +2,7 @@
 
 Welcome to my digital realm! I am Rahees Ahmed, a passionate technologist specialized in full-stack web development and automation solutions. My craft revolves around designing and implementing bespoke web applications and systems that streamline business processes and enhance user experiences.
 <div align="center">
-    <img src="https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33452.jpg" alt="Rahees Ahmed Banner">
+    <img src="" alt="Rahees Ahmed Banner">
 </div>
 
 <div align="center">
