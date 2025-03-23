@@ -1,4 +1,4 @@
-# Rahees Ahmed: Full Stack Developer & AI Specialist
+# Rahees Ahmed: AI Engineer | Specialist in Chatbots, Agents & Custom AI Solutions
 
 I'm  a seasoned Full Stack Developer with over 6 years of hands-on experience. I specialize in turning complex ideas into user-friendly, efficient solutions that drive business growth.
 
