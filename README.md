@@ -1,4 +1,3 @@
-i will only focus on AI AGnets CHatbots and Automation so help m eto mak ethis first for githib
 # Rahees Ahmed
 
 **AI Engineer | AI Agents | Chatbot & Automation Specialist**
