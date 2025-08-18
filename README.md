@@ -1,49 +1,49 @@
+i will only focus on AI AGnets CHatbots and Automation so help m eto mak ethis first for githib
 # Rahees Ahmed
 
-**AI Engineer | AI Agents | RAG Chatbots & Automation Specialist**
+**AI Engineer | AI Agents | Chatbot & Automation Specialist**
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m **Rahees Ahmed**, an AI Engineer passionate about building **AI Agents, Chatbots, and Automation Workflows** that solve real business problems.
-
-Over the past 6+ years, I’ve worked across **AI, automation, and full-stack development** — but today my focus is clear:
-👉 Helping businesses scale with **AI-powered agents, RAG chatbots, and workflow automation** (using tools like **n8n, LangChain, and custom integrations**).
-
-I’m also a **Top Rated Upwork Freelancer** with a proven track record of delivering solutions that save time, cut costs, and boost efficiency for clients worldwide.
+Hi there! I’m Rahees, a passionate developer with over 6 years of experience in building scalable, user-focused solutions. I specialize in **Full Stack Development** and **AI-driven technologies**, turning complex problems into elegant, impactful applications. As a **Top Rated Upwork Freelancer** with a 5-star track record, I’ve helped clients worldwide achieve their goals with custom solutions that deliver results.
 
 ---
 
-## 🚀 What I Do Best
+## My Expertise
 
-* **AI Agents & Automation** – Custom AI-powered workflows that save teams hours every week.
-* **Chatbots & RAG Systems** – Conversational AI integrated with real data for accurate, context-aware responses.
-* **API & Tool Integrations** – Connecting CRMs, messaging platforms (WhatsApp, Slack, Discord), and SaaS tools with AI brains.
-* **End-to-End Solutions** – From prototype to production-ready systems.
-
----
-
-## 🛠️ Tech Stack
-
-* **AI / ML**: OpenAI, Claude, Gemini, Groq, LangChain, RAG, NLP
-* **Automation**: n8n, Zapier, Custom Python/Node.js pipelines
-* **Backend**: Node.js (Express, GraphQL), Python (FastAPI, Flask)
-* **Frontend**: React, Next.js
-* **Tools**: Docker, Git, AWS
-
-
-
-👉 More on my [portfolio site](https://raheesahmed.vercel.app/)
+- **Full Stack Development:** End-to-end web applications that are responsive and robust.  
+- **AI & Automation:** Intelligent systems to streamline workflows and boost efficiency.  
+- **Custom Chatbots:** Conversational AI that enhances user experience and engagement.  
+- **API Integration:** Connecting tools and platforms for seamless functionality.  
 
 ---
 
-## 🤝 Let’s Connect
+## My Approach
 
-💬 Got an idea for an AI Agent, Chatbot, or Automation Workflow?
-I’d love to help make it real.
+I believe great tech starts with understanding the *why* behind a project. I blend technical expertise with a focus on business outcomes, delivering solutions that don’t just work—they *win*. For instance, I once built a chatbot that cut a client’s support response time by 40%, driving happier customers and a healthier bottom line.
 
-* [LinkedIn](https://linkedin.com/in/raheesahmed)
-* [GitHub](https://github.com/raheesahmed)
-* [Upwork](https://upwork.com/freelancers/raheesahmed)
+---
 
+## Skills
+
+- **Backend:** Nodejs(Expressjs,GraphQL) Python(FastAPI,Flask) 
+- **Frontend:** React,Next.js  
+- **AI/ML Tools:** AI API Integration (ChatGPT, Gemini, Claude, Groq), Langchain, TensorFlow, PyTorch, NLP, RAG Chatbots, Custom AI Tools  
+- **Dev Tools:** Docker, Git, AWS
+
+
+
+## Let’s Connect
+
+Got a project in mind? I’d love to help bring it to life with cutting-edge tech and a collaborative spirit. Take a look at my [portfolio](https://raheesahmed.vercel.app/) to see what I’ve been up to, and let’s make something amazing together!
+
+---
+
+**Find Me Here:**  
+- [LinkedIn](https://linkedin.com/in/raheesahmed)  
+- [GitHub](https://github.com/raheesahmed)  
+- [Upwork](https://upwork.com/freelancers/raheesahmed)  
+
+---
