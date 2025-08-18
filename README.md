@@ -32,14 +32,7 @@ I’m also a **Top Rated Upwork Freelancer** with a proven track record of deliv
 * **Frontend**: React, Next.js
 * **Tools**: Docker, Git, AWS
 
----
 
-## 📌 Featured Projects
-
-🔹 **LeetCode AI Assistant** – AI-powered coding assistant for problem-solving.
-🔹 **AI WhatsApp Bot** – Customer support chatbot with RAG and n8n integration.
-🔹 **Multi-PDF Chat** – Query multiple documents using LLMs.
-🔹 **Assistant API Integration** – RESTful server for custom AI agents.
 
 👉 More on my [portfolio site](https://raheesahmed.vercel.app/)
 
