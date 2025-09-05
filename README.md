@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 🤖 Rahees Ahmed - AI Automation Architect
+# AI-Powered Full-Stack Developer | Building Custom AI Agents & Web/Mobile Applications
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/raheesahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://raheesahmed.vercel.app)
