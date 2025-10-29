@@ -1,224 +1,213 @@
-<div align="center">
-  
-# 👋 Hi, I'm Rahees Ahmed
+# Rahees Ahmed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;100%2B+Production+AI+Systems+Deployed;Building+Intelligent+Solutions+Since+2018;Multi-Agent+Systems+Expert)](https://git.io/typing-svg)
+**Agentic AI Developer | AI Agents, Chatbots, MCP Servers | LangChain | Langgraph**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raheesahmed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raheesahmed.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raheesahmed.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahesahmed37@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923155501381)
-
-</div>
-
-## 🚀 About Me
-
-I'm a **Full-Stack Developer** specializing in **AI-powered solutions** with 6+ years of experience. I transform complex business challenges into intelligent, automated systems that deliver real value.
-
-```javascript
-const rahees = {
-    location: "Pakistan 🇵🇰",
-    role: "AI-Powered Full-Stack Developer",
-    experience: "6+ years",
-    specialization: ["Multi-Agent Systems", "Voice AI", "RAG Architecture", "Full-Stack Development"],
-    achievements: {
-        aiSystemsDeployed: "100+",
-        githubStars: "16+",
-        openSourceProjects: "50+",
-        clientsSatisfied: "80+"
-    },
-    currentlyLearning: "Advanced Multi-Agent Communication Patterns",
-    funFact: "I can make AI agents talk to each other better than humans do! 🤖"
-};
-```
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎙️ [WorkFlow AI](https://github.com/RaheesAhmed/WorkFlow-AI)
-**World's First Voice-Controlled Automation**
-
-Revolutionary platform that generates N8N workflows using voice commands. Powered by Claude Sonnet 4 and ElevenLabs.
-
-**Tech:** `Next.js` `LangGraph` `Claude` `ElevenLabs`  
-**Live:** [workflowweb.vercel.app](https://workflowweb.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🤖 [OpenAgent](https://github.com/RaheesAhmed/OpenAgent)
-**Advanced AI Development Assistant**
-
-22,350+ lines of production TypeScript with 40% token optimization and persistent memory systems.
-
-**Tech:** `TypeScript` `LangChain` `SQLite` `ReAct`  
-**Architecture:** 29-module system
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [Context Engine MCP](https://github.com/RaheesAhmed/Context-Engine-MCP-Server)
-**NPM Package for AI Context**
-
-Production tool supporting 15+ languages with hierarchical agent architecture.
-
-**Tech:** `Node.js` `TypeScript` `MCP Protocol`  
-**Install:** `npm install context-engine-mcp`
-
-</td>
-<td width="50%">
-
-### 💬 [OpenGPT](https://github.com/RaheesAhmed/OpenGPT)
-**Open-Source ChatGPT Clone**
-
-Multi-model chat platform with BYOK architecture for privacy and cost optimization.
-
-**Tech:** `Next.js` `OpenAI` `Anthropic` `Gemini`  
-**Live:** [opengpt-beta.vercel.app](https://opengpt-beta.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 [WhatsApp AI Bot](https://github.com/RaheesAhmed/WhatsApp-Bot)
-**Business Automation Platform**
-
-Handles 1000+ daily conversations with AI responses and real-time analytics.
-
-**Tech:** `Node.js` `WhatsApp.js` `OpenAI` `Supabase`  
-**Scale:** Multi-tenant, 99.9% uptime
-
-</td>
-<td width="50%">
-
-### 👻 [StealthCoder](https://github.com/RaheesAhmed/StealthCoder)
-**Invisible Interview Assistant**
-
-Chrome extension for live coding assistance with multi-LLM support.
-
-**Tech:** `TypeScript` `Chrome API` `Multi-LLM`  
-**Features:** Stealth UI, Secret shortcuts
-
-</td>
-</tr>
-</table>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-FF6B6B?style=flat&logo=cohere&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</div>
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| Metric | Value | Impact |
-|--------|-------|--------|
-| **AI Systems Deployed** | 100+ | Serving thousands of users daily |
-| **Automation Efficiency** | 80% | Average reduction in manual work |
-| **System Uptime** | 99.9% | Enterprise-grade reliability |
-| **GitHub Stars** | 16+ | Growing open-source community |
-| **Open Source Projects** | 50+ | Contributing to the ecosystem |
-| **Happy Clients** | 80+ | Delivered successful solutions |
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=RaheesAhmed&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaheesAhmed&theme=react&hide_border=false)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheesAhmed&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=RaheesAhmed&theme=react-dark&hide_border=false&area=true)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaheesAhmed&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-## 🎯 What I'm Up To
-
-- 🔨 Building **R-Code IDE** - AI-first development environment
-- 📚 Creating **1000+ N8N Templates** for business automation
-- 🤝 Training developers in **Multi-Agent Systems**
-- 🚀 Working on **Voice AI Integration** patterns
-- 📖 Writing about **AI Architecture** on Medium
-
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Voice-Powered AI Agents with LangGraph](https://dev.to/raheesahmed)
-- [Multi-Agent Systems: The Future of Automation](https://medium.com/@raheesahmed)
-- [From 0 to 100 AI Systems: My Journey](https://dev.to/raheesahmed)
-- [RAG Architecture Best Practices](https://medium.com/@raheesahmed)
-<!-- BLOG-POST-LIST:END -->
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to work on innovative AI projects and help businesses automate their workflows!
-
-📧 **Email:** rahesahmed37@gmail.com  
-📱 **WhatsApp:** +92-3155501381  
-💼 **LinkedIn:** [linkedin.com/in/raheesahmed](https://linkedin.com/in/raheesahmed)  
-🌐 **Portfolio:** [raheesahmed.vercel.app](https://raheesahmed.vercel.app)
-
-### Services I Offer
-
-✨ Custom AI Agent Development | 🚀 Full-Stack Applications | 📱 Mobile Development  
-🤖 Workflow Automation | 🧠 AI Consulting | 💡 System Architecture
-
-</div>
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~raheesahmed37)
 
 ---
 
-<div align="center">
+## What I Do
 
-### Thanks for visiting! 👋
+I build **agentic AI systems** that don't just respond—they think, plan, execute, and adapt. Specializing in autonomous agents that solve real problems through intelligent decision-making and tool use.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Core Focus:**
+- Multi-agent systems with LangChain & LangGraph
+- MCP (Model Context Protocol) server development
+- Production chatbots with memory & reasoning
+- AI agents with tool-use capabilities
+- Complex workflow automation
 
-![Visitor Count](https://profile-counter.glitch.me/RaheesAhmed/count.svg)
+**Impact:** 100+ systems deployed | 80% automation efficiency | 99.9% uptime
 
-</div>
+---
+
+## Featured Projects
+
+### 🤖 [OpenAgent](https://github.com/RaheesAhmed/OpenAgent)
+
+Advanced AI development assistant with persistent memory and self-improvement capabilities.
+
+- 22,350+ lines of production TypeScript
+- 40% token optimization through intelligent caching
+- Persistent SQLite memory for context retention
+- 29-module architecture with ReAct pattern
+- Tool-use for file operations, web search, code execution
+
+**Stack:** TypeScript · LangChain · SQLite · Node.js
+
+---
+
+### 🔌 [WordPress MCP Server](https://github.com/RaheesAhmed/wordpress-mcp-server)
+
+Production MCP server with 190+ tools for complete WordPress control via AI agents.
+
+- Theme management (child themes, styles, blocks)
+- Plugin control (activate, deactivate, edit)
+- Content management (posts, pages, media, users)
+- Database operations (queries, options, tables)
+- Security-first with automatic backups
+- Performance optimization tools
+
+**Stack:** TypeScript · MCP Protocol · WordPress · PHP
+
+📦 Install: `npm i -g wpmcp@3.0.0`  
+📹 Demo: [YouTube](https://youtu.be/6hwMqXQFKN0)
+
+---
+
+### ⚡ [QuickMCP SDK](https://github.com/RaheesAhmed/quickmcp-sdk)
+
+Revolutionary SDK making MCP development 10x faster with zero complexity.
+
+- 10x faster schema validation with LRU caching
+- 90% less code vs official SDK
+- Built-in auth (JWT, API keys, OAuth2)
+- Real-time metrics and health checks
+- CLI tools for scaffolding and hot reload
+- Modern TypeScript decorators
+
+**Stack:** TypeScript · Node.js · Express
+
+📦 Install: `npm install quickmcp-sdk`  
+⚡ Performance: 5x faster than official SDK
+
+---
+
+### 🎙️ [WorkFlow AI](https://github.com/RaheesAhmed/WorkFlow-AI)
+
+World's first voice-controlled automation platform for n8n workflows.
+
+- Voice commands powered by ElevenLabs
+- Claude Sonnet 4 for workflow generation
+- LangGraph orchestration for multi-step automation
+- Real-time UI with Next.js
+- Direct n8n integration
+
+**Stack:** Next.js · LangGraph · Claude · ElevenLabs
+
+🌐 Live: [workflowweb.vercel.app](https://workflowweb.vercel.app)
+
+---
+
+### 💬 [OpenGPT](https://github.com/RaheesAhmed/OpenGPT)
+
+Privacy-first ChatGPT alternative with BYOK architecture.
+
+- Bring Your Own Key (complete privacy)
+- Multi-model support (OpenAI, Claude, Gemini)
+- Real-time streaming responses
+- Conversation history with export
+- Modern UI with TailwindCSS
+
+**Stack:** Next.js · React · OpenAI · Claude · Gemini
+
+🌐 Live: [opengpt-beta.vercel.app](https://opengpt-beta.vercel.app)
+
+---
+
+### 📱 [WhatsApp AI Bot](https://github.com/RaheesAhmed/WhatsApp-Bot)
+
+Production automation handling 1000+ daily conversations.
+
+- AI-powered responses with context awareness
+- Real-time analytics dashboard
+- Multi-tenant support
+- Supabase backend
+- 99.9% uptime
+
+**Stack:** Node.js · WhatsApp.js · OpenAI · Supabase
+
+---
+
+### 👻 [StealthCoder](https://github.com/RaheesAhmed/StealthCoder)
+
+Chrome extension for invisible coding assistance during interviews.
+
+- Stealth UI (invisible to screen sharing)
+- Secret shortcuts for quick access
+- Multi-LLM support (OpenAI, Claude, Gemini)
+- Real-time code generation
+- Secure & private
+
+**Stack:** TypeScript · Chrome Extensions API · Multi-LLM
+
+---
+
+## Tech Stack
+
+**AI & Agentic Systems**  
+LangChain · LangGraph · OpenAI · Claude · CrewAI · AutoGen · LlamaIndex
+
+**Languages**  
+TypeScript · Python · JavaScript · Node.js
+
+**Frontend**  
+React · Next.js · Vue.js · Svelte · TailwindCSS
+
+**Backend**  
+FastAPI · Express · NestJS · Flask · GraphQL
+
+**Databases & Vectors**  
+PostgreSQL · MongoDB · Pinecone · Weaviate · ChromaDB · Redis
+
+**DevOps**  
+Docker · AWS · Vercel · GitHub Actions · CI/CD
+
+---
+
+## Metrics
+
+**Systems Deployed:** 100+  
+**Automation Efficiency:** 80%  
+**Production Uptime:** 99.9%  
+**NPM Packages:** 3+  
+**GitHub Stars:** 16+  
+**Open Source Projects:** 50+  
+**Happy Clients:** 80+  
+**Lines of Code:** 100K+
+
+---
+
+## Current Focus
+
+- Building R-Code IDE (AI-first development environment)
+- Creating MCP server templates for common use cases
+- Training multi-agent systems with specialized roles
+- Developing voice-enabled AI agents
+- Writing about agentic AI architecture
+
+---
+
+## Services
+
+**AI Agents**
+- Custom agent development with tool use & reasoning
+- Multi-agent systems with orchestration
+- MCP server development
+- Agent memory systems with persistence
+
+**Chatbots**
+- Production chatbots (90%+ resolution rates)
+- Voice AI integration (speech-to-speech)
+- Context-aware systems that remember
+
+**Architecture**
+- Scalable agentic AI system design
+- LangChain/LangGraph consulting
+- Performance optimization (10x faster)
+
+---
+
+## Contact
+
+📧 rahesahmed37@gmail.com  
+💼 [linkedin.com/in/raheesahmed](https://linkedin.com/in/raheesahmed)  
+📱 WhatsApp: +92-3155501381  
+🌐 [raheesahmed.vercel.app](https://raheesahmed.vercel.app)
+
+---
+
+**Building the future of autonomous AI, one agent at a time.**
