@@ -37,7 +37,7 @@ Specialized in designing and deploying autonomous AI systems at scale. My work f
 
 ## Approach
 
-I build systems where intelligence emerges from architecture, not just model size. Every project is designed for production from day one—scalable, observable, and reliable.
+I build systems where intelligence emerges from architecture, not just model size. Every project is designed for production from day one scalable, observable, and reliable.
 
 **Philosophy:** Agents over chatbots. Planning over prompting. Action over conversation.
 
