@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
 
-# Agentic AI Engineer
+# 👋 AI Automation Engineer
 
-Building production AI agents that reason, plan, and execute autonomously
+Building production-ready AI systems that solve real business problems
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raheesahmed)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://raheesahmed.vercel.app)
@@ -13,54 +13,80 @@ Building production AI agents that reason, plan, and execute autonomously
 
 ---
 
-## Expertise
+## 🔧 What I Build
 
-Specialized in designing and deploying autonomous AI systems at scale. My work focuses on multi-agent orchestration, tool-use frameworks, and production-ready agentic architectures.
+**AI Agents & Automation**  
+LangGraph and LangChain workflows for autonomous decision-making, tool use, and multi-step process execution.
 
-**Core Areas:**
-- Multi-agent systems with LangGraph and CrewAI
-- MCP (Model Context Protocol) server development
-- Agentic workflow automation and orchestration
-- Production AI deployment with 99.9% uptime
+**MCP Servers**  
+Custom Model Context Protocol integrations connecting Claude/GPT to internal databases, APIs, and business tools.
 
----
+**Production AI APIs**  
+FastAPI backends powering AI applications at scale—handling 10,000+ operations daily with 99.9% uptime.
 
-## Stack
-
-**AI Frameworks:** LangChain · LangGraph · CrewAI · AutoGen  
-**Models:** OpenAI · Claude · Gemini · Llama  
-**Languages:** TypeScript · Python · Node.js  
-**Databases:** PostgreSQL · MongoDB · Pinecone · Supabase  
-**Infrastructure:** Docker · AWS · Vercel · CI/CD
+**Full-Stack AI Solutions**  
+React/Next.js frontends when dashboards and user interfaces are needed.
 
 ---
 
-## Approach
+## 🛠️ Tech Stack
 
-I build systems where intelligence emerges from architecture, not just model size. Every project is designed for production from day one scalable, observable, and reliable.
-
-**Philosophy:** Agents over chatbots. Planning over prompting. Action over conversation.
-
----
-
-## Open To
-
-Consulting · Contract Work · Technical Advisory · Open Source Collaboration
-
-Especially interested in enterprise AI agents, multi-agent coordination, novel MCP implementations, and high-stakes automation.
+**AI/ML:** LangGraph • LangChain • MCP Protocol • OpenAI • Claude (Anthropic)  
+**Backend:** Python • FastAPI • Node.js  
+**Databases:** PostgreSQL • MongoDB • Supabase • Pinecone  
+**Infrastructure:** Docker • AWS • Google Cloud • CI/CD • GitHub Actions  
+**Frontend:** React • Next.js
 
 ---
 
-## Contact
+## 📊 Featured Projects
 
-📧 rahesahmed37@gmail.com  
-💼 [linkedin.com/in/raheesahmed](https://linkedin.com/in/raheesahmed)  
-🌐 [raheesahmed.vercel.app](https://raheesahmed.vercel.app)
+→ **Custom MCP server** for enterprise support automation (36 GitHub stars, published on NPM)  
+→ **LangGraph agents** processing 10,000+ documents/day at 95% accuracy  
+→ **AI workflow automation** saving clients 25+ hours/week ($5,000-$15,000/month value)  
+→ **OpenAgent:** AI development assistant with 40% token optimization (44 GitHub stars)
+
+---
+
+## 💼 My Approach
+
+I build systems where intelligence emerges from architecture, not just model size. Every project is designed for production from day one—scalable, observable, and reliable.
+
+**Philosophy:** Solve business problems first, showcase technology second. AI that delivers ROI, not just demos.
+
+**Focus:** Automation over conversation. Results over features. Production over proof-of-concept.
+
+---
+
+## 🎯 Services
+
+**Available for:**
+- Contract projects on production AI systems
+- Consulting on LangGraph/LangChain architecture
+- Technical advisory for AI automation initiatives
+- Open source collaboration on MCP and AI agent frameworks
+
+**Especially interested in:**
+- Enterprise AI agents and workflow automation
+- Novel MCP server implementations
+- High-stakes automation requiring 99.9%+ reliability
+- AI systems saving 20+ hours/week for clients
+
+---
+
+## 📫 Let's Connect
+
+**Email:** [rahesahmed37@gmail.com](mailto:rahesahmed37@gmail.com)  
+**LinkedIn:** [linkedin.com/in/raheesahmed](https://linkedin.com/in/raheesahmed)  
+**Portfolio:** [raheesahmed.vercel.app](https://raheesahmed.vercel.app)  
+**NPM:** [npmjs.com/~raheesahmed37](https://npmjs.com/~raheesahmed37)
 
 ---
 
 <div align="center">
 
-**Building autonomous intelligence that acts, not just responds**
+**Building AI automation that delivers measurable ROI, not just impressive demos**
+
+⭐ Top Rated on Upwork | 100% Job Success Score | $30K+ Earned
 
 </div>
