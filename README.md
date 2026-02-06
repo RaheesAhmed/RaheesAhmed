@@ -1,5 +1,5 @@
 # Rahees Ahmed
-## AI Automation Engineer
+## AI Automation Engineer | LangChain Certified
 
 Building production AI systems that solve real business problems.
 
