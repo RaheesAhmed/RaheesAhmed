@@ -1,5 +1,3 @@
-## AI Systems Engineer | Autonomous Agents · MCP Servers · AI Infrastructure | Founder of Sajicode
-
 I build AI infrastructure that works in production.
 
 ### What I Build
