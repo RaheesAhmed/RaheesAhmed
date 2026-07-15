@@ -6,12 +6,15 @@
 
 **I build production-ready AI agents, MCP servers, RAG systems, and custom AI tools that connect LLMs with real business workflows.**
 
+
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%7C%20100%25%20JSS-14a800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://upwork.com/freelancers/raheesahmed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/raheesahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://raheesahmed.vercel.app)
 [![NPM](https://img.shields.io/badge/NPM-3%20Packages-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)](https://npmjs.com/~raheesahmed37)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://fiverr.com/aiintegration)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rahesahmed37@gmail.com)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1956--0514-A6CE39?logo=orcid)](https://orcid.org/0009-0008-1956-0514)
 
 </div>
 
