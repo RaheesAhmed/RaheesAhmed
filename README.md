@@ -2,9 +2,7 @@
 
 # RAHEES AHMED
 
-### AI Agent & MCP Systems Developer
-
-**I build production-ready AI agents, MCP servers, RAG systems, and custom AI tools that connect LLMs with real business workflows.**
+**AI Agent Engineer & AI Automation Specialist | Building Production AI Agents, MCP Servers & RAG Systems | Automating Real Business Workflows**
 
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%7C%20100%25%20JSS-14a800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://upwork.com/freelancers/raheesahmed)
@@ -20,39 +18,33 @@
 
 ---
 
-## What I Build
-
-I build AI systems that do more than chat.
-
-My work focuses on the layer between **LLMs and real business tools**:
-
-```txt
-LLM → Agent → MCP Server → API / Database / Business Tool → Human Approval → Real Action
-```
+I’m Rahees Ahmed, an AI Agent Engineer and Full-Stack AI Developer focused on building production-ready AI systems that can understand information, use tools, make decisions, and execute real business workflows.
 
 I specialize in:
 
-* AI agents that use tools, APIs, memory, and structured workflows
-* MCP servers that connect AI assistants to real systems
-* RAG systems for business documents, knowledge bases, and search
-* Multi-agent systems for automation, coding, research, content, and operations
-* Custom AI tools with OAuth, permissions, dashboards, logs, and approval flows
-* Full-stack AI apps using Next.js, FastAPI, Node.js, TypeScript, Supabase, PostgreSQL, and Docker
+• AI Agents & Agentic AI
 
----
+• MCP (Model Context Protocol) servers and integrations
 
-## Core Focus
+• LangGraph & multi-step AI workflows
 
-| Area                       | What I Build                                                                                   |
-| -------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🤖 **AI Agents**           | LangGraph, LangChain, tool-using agents, planner agents, workflow agents                       |
-| 🔧 **MCP Servers**         | Model Context Protocol servers for APIs, databases, WordPress, CRMs, files, and internal tools |
-| 🧠 **RAG Systems**         | Hybrid search, vector databases, embeddings, document pipelines, business knowledge bases      |
-| 🧩 **Multi-Agent Systems** | Research agents, coding agents, content agents, support agents, automation agents              |
-| 🔐 **Custom AI Tools**     | OAuth integrations, dashboards, role-based permissions, approval flows, secure tool execution  |
-| 🌐 **Full-Stack AI Apps**  | Next.js, FastAPI, Node.js, TypeScript, Supabase, PostgreSQL, Docker                            |
+• RAG and knowledge-based AI systems
 
----
+• LLM application development
+
+• AI automation and business workflow automation
+
+• Python, FastAPI and backend systems
+
+• Next.js, React and modern web applications
+
+• API integrations, tool calling and AI-powered systems
+
+I build AI systems that connect models to the tools businesses already use — CRMs, databases, websites, email, calendars, documents, APIs and internal systems.
+
+My focus is not just building AI demos. I care about making AI systems reliable, observable, maintainable and useful in real production environments.
+
+I also build open-source AI tools, MCP servers and developer infrastructure, and I enjoy exploring new approaches to agent architecture, automation and AI engineering.
 
 ## Proof of Work
 
@@ -160,19 +152,7 @@ I build the systems that allow AI to safely work with real tools, real data, and
 
 ---
 
-## What I Can Help With
-
-* Custom AI agent development
-* MCP server development
-* LangGraph and LangChain agent systems
-* RAG chatbot and knowledge base systems
-* AI social media agents
-* AI customer support agents
-* AI workflow automation
-* WordPress and WooCommerce AI agents
-* OAuth-based AI tool integrations
-* Full-stack AI SaaS MVPs
-* Multi-agent automation systems
+If you're looking to build an AI agent, automate a complex business workflow, connect AI to your existing systems, or develop a production MCP server, that's the kind of work I specialize in.
 
 ---
 
