@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi, I'm Rahees Ahmed 👋
+<img src="banner.png" alt="Rahees Ahmed, Forward Deployed AI Engineer" width="100%" height="100%">
 
-### Forward Deployed AI Engineer
 
 **I build AI agents and MCP servers that do real work inside real businesses.**
 
